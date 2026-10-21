@@ -1,4 +1,4 @@
-# Core-Banking-SandBox
+# CoreBanking Sandbox
 
 A toy banking sandbox for FinTech developers. Create sample accounts, transfer money between them with validated rules, and review statements with running balances. Everything runs in the browser.
 
