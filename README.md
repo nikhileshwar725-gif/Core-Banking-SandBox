@@ -136,12 +136,7 @@ This is a learning sandbox. Do not use it for real money or real customer data.
 
 A production system would need a secure backend, database transactions, audit trails, encryption, and compliance with the relevant regulations.
 
-## Roadmap
 
-- [ ] Hash-chained ledger to detect tampering with past entries
-- [ ] Balance chart with Chart.js
-- [ ] React + Vite interface
-- [ ] Search and filters on accounts and statements
 
 ## Contributing
 
