@@ -48,6 +48,8 @@ Open `index.html` in a browser. On first load, the app seeds sample data.
 2. **Transfer:** Open Transfer, choose a source and destination, enter an amount and an optional reference, then submit.
 3. **Statement:** Open Statement, pick an account, and check the opening balance, each row's running balance and the closing balance. Filter by date or type, or export to CSV.
 4. **Admin view:** Switch roles to set overdraft flags and limits, or reset sample data.
+5. # developer view
+6. 
 
 ## Sample data
 
