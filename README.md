@@ -2,7 +2,7 @@
 
 A toy banking sandbox for FinTech developers. Create sample accounts, transfer money between them with validated rules, and review statements with running balances. Everything runs in the browser.
 
-> **Demo only.** All accounts, customers and amounts are synthetic. No real money moves. This project does not meet banking security, regulatory or accounting standards. Real banking systems need a secure backend, database transactions, audit logs and access control. See [Limitations](#limitations).
+> **Demo only.** All accounts, customers and amounts are synthetic. No real money moves. This project does not meet banking security, regulatory or accounting standards. Real banking systems need a secure backend, database transactions, audit logs and access control.
 
 ## Why this exists
 
@@ -39,9 +39,6 @@ Blocked transfers return a reason and change no balances.
 - HTML5, CSS3, Bootstrap 5
 - Vanilla JavaScript (DOM, events, forms, `fetch`, `localStorage`)
 - Git and GitHub
-
-Stretch options (not required): React + Vite, Chart.js for balance charts, or a hash-chained ledger using `hashlib` to detect edits to past entries.
-
 
 Open `index.html` in a browser. On first load, the app seeds sample data.
 
